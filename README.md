@@ -1,8 +1,7 @@
 <!--Header-->
-<br/>
 <p align="center">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzEwYTEzNTA3YTU5NzY2NjA2NzFlZmJmYTQ3ODM2YjNjZTNmOGZkOCZjdD1z/juua9i2c2fA0AIp2iq/giphy.gif" alt="Logo" width="500" height="300">
-  
+ </p>
 <h3 align="center">👋 Hi, I’m Dmitriy Kan</h3>
 
 <!--Badges-->
