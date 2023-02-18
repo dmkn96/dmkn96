@@ -27,4 +27,9 @@ Thank you for taking the time to learn a bit more about me. I'm excited to see w
 | Development | <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"> |
 | Database | <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"> |
 
-## 🛠 Skills :
+## Connect me :
+<p align="left">
+<a href="https://linkedin.com/in/dmkn96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dmkn96/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100073404865386&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100073404865386&mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dmkn96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dmkn96/" height="30" width="40" /></a>
+</p>
