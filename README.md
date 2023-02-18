@@ -7,14 +7,6 @@
 - 👯 I'm looking for work in the **AI sphere**
 - 📫 How to reach me **dmkn96@icloud.com**
  
-<!--Badges-->
-<div style="display: flex; justify-content: center;">
-  <img src="https://img.shields.io/github/contributors/dmkn96/dmkn96?color=dark-green" alt="Contributors">
-  <img src="https://img.shields.io/github/issues/dmkn96/dmkn96" alt="Issues">
-  <img src="https://img.shields.io/github/forks/dmkn96/dmkn96?style=social" alt="Forks">
-  <img src="https://img.shields.io/github/stars/dmkn96/dmkn96?style=social" alt="Stargazers">
-</div>
-
 ## About me :
 My name is Kan Dmitriy and I am 26 years old. I currently reside in Korea. At present, I work for a company that specializes in human resources management. Throughout my career, I have gained extensive experience working with people, which has helped me to develop my interpersonal skills. Additionally, my past work in the tourism industry has allowed me to gain exposure to different cultures, broaden my horizons, and develop a global perspective.
 
