@@ -7,16 +7,11 @@
 - 👯 I'm looking for opportunities in the **AI sphere**
 - 📫 How to reach me **dmkn96@icloud.com**
  
-## About me :
-My name is Kan Dmitriy and I am 26 years old. I currently reside in Korea. At present, I work for a company that specializes in human resources management. Throughout my career, I have gained extensive experience working with people, which has helped me to develop my interpersonal skills. Additionally, my past work in the tourism industry has allowed me to gain exposure to different cultures, broaden my horizons, and develop a global perspective.
+## 💬 About me :
+My name is Kan Dmitriy and I am 26 years old. I currently reside in Korea.
+I am highly enthused about Data Science. The top priority for me now is to continue learning and developing in this field. As a driven and detail-oriented junior AI developer, I'm interested in developing and researching cutting-edge solutions for complex problems using innovative technologies. My hard and soft skills make me a valuable asset to any team, and I thrive on challenging projects which will help me to grow as a specialist.
 
-However, since a young age, I've been fascinated by computer games and have had an innate curiosity for understanding how they work. This curiosity sparked my interest in game development, which eventually led me to study programming. The more I explored the programming world, the more I became captivated by the field of artificial intelligence. Ultimately, my goal is to make a meaningful contribution to this field and help shape the future of AI.
-
-I am always highly enthused about AI programming. Learning and developing in this field is a top priority for me. As a driven and detail-oriented junior AI developer, I specialize in developing cutting-edge solutions for complex problems using innovative technology. My technical skills and curiosity make me a valuable asset to any team, and I thrive on challenging projects that require me to test new frameworks, build robust models, and develop custom algorithms.
-
-I am deeply passionate about music, and I happen to have a particular talent for playing the guitar. In fact, one of my favorite ways to spend my free time is by strumming away on my guitar. It's an activity that brings me great joy and helps me unwind.
-
-Thank you for taking the time to learn a bit more about me. I'm excited to see where my journey takes me next, and I can't wait to see what the future holds.
+Thank you for taking the time to learn a bit more about me.
 
 ## 🛠 Skills :
 
