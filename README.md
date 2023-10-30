@@ -1,17 +1,18 @@
 <p align="center">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzEwYTEzNTA3YTU5NzY2NjA2NzFlZmJmYTQ3ODM2YjNjZTNmOGZkOCZjdD1z/juua9i2c2fA0AIp2iq/giphy.gif" alt="Logo" width="600" height="450">
+    <img src="https://media3.giphy.com/media/TLnWsIBRegQyWxG4Dw/giphy.gif?cid=ecf05e473jkjwd218e4oi7lshtguegabkt06uleh2c3yokwy&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Logo" width="400" height="350">
  </p>
  
-- 👋 Hi, I’m Dmitriy Kan 
-- 🌱 I’m currently learning **AI engineering**
-- 👯 I'm looking for opportunities in the **AI sphere**
-- 📫 How to reach me **dmkn96@icloud.com**
+👋 Hey there! I'm Dmitriy Kan. <br>
+💻 Backend Developer by day, **family man** by night. <br>
+🤖 Exploring new frontiers in the **AI realm.** <br>
+📚 When I'm not coding, I'm delving into AI research and robotics. <br>
+📫 Email me at **dmkn96@icloud.com** <br>
  
 ## 💬 About me :
-My name is Kan Dmitriy and I am 26 years old. I currently reside in Korea.
-I am highly enthused about Data Science. The top priority for me now is to continue learning and developing in this field. As a driven and detail-oriented junior AI developer, I'm interested in developing and researching cutting-edge solutions for complex problems using innovative technologies. My hard and soft skills make me a valuable asset to any team, and I thrive on challenging projects which will help me to grow as a specialist.
+🔍  I'm always on the lookout for **innovative projects** and new challenges in the AI sphere.  
+🎯  My ultimate goal is to contribute to a future where **technology and humanity coexist in harmony**.  
+✨  **Let's connect and make something great together! 🤝**
 
-Thank you for taking the time to learn a bit more about me.
 
 ## 🛠 Skills :
 
