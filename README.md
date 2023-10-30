@@ -15,13 +15,28 @@
 
 
 ## 🛠 Skills :
-
-| Skills             | Badges                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Programming Languages | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> |
-| ML/DL/AI |  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"> |
-| Development | <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"> |
-| Database | <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"> |
+<table style="width:100%">
+  <tr>
+    <th>📚 Category</th>
+    <th>💡 Technologies</th>
+  </tr>
+  <tr>
+    <td>🖥 Programming Languages</td>
+    <td>Python, C++</td>
+  </tr>
+  <tr>
+    <td>🤖 Artificial Intelligence</td>
+    <td>Tensorflow2.0, Scikit-learn, PyTorch</td>
+  </tr>
+  <tr>
+    <td>📊 Data Analysis</td>
+    <td>Pandas, Seaborn, Matplotlib</td>
+  </tr>
+  <tr>
+    <td>🐳 Other</td>
+    <td>Docker</td>
+  </tr>
+</table>
 
 ## 📞 Connect me :
 <p align="left">
