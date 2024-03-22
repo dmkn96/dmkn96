@@ -22,19 +22,19 @@
   </tr>
   <tr>
     <td>🖥 Programming Languages</td>
-    <td>Python, C#</td>
+    <td>Python | C#</td>
   </tr>
   <tr>
     <td>🤖 Artificial Intelligence</td>
-    <td>Tensorflow2.0, Scikit-learn, PyTorch</td>
+    <td>Tensorflow2.0 | Scikit-learn | PyTorch</td>
   </tr>
   <tr>
     <td>📊 Data Analysis</td>
-    <td>Pandas, Seaborn, Matplotlib</td>
+    <td>Pandas | Seaborn | Matplotlib</td>
   </tr>
   <tr>
     <td>🐳 Other</td>
-    <td>Docker|Git</td>
+    <td>Docker | Git</td>
   </tr>
 </table>
 
