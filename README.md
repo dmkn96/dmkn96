@@ -1,6 +1,8 @@
 <p align="center">
-    <img src="https://media3.giphy.com/media/TLnWsIBRegQyWxG4Dw/giphy.gif?cid=ecf05e473jkjwd218e4oi7lshtguegabkt06uleh2c3yokwy&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Logo" width="400" height="350">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3l4OTdmZzBpcW5la2p2MzJzcDZ0bDNzZGgyZTcyMmNsYWJkM2kybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif" alt="Logo" width="1200" height="350">
  </p>
+
+ 
  
 👋 Hey there! I'm Dmitriy Kan. <br>
 💻 Backend Developer by day, **family man** by night. <br>
