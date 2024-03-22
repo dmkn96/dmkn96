@@ -5,7 +5,6 @@
 👋 Hey there! I'm Dmitriy Kan. <br>
 💻 Backend Developer by day, **family man** by night. <br>
 🤖 Exploring new frontiers in the **AI realm.** <br>
-📚 When I'm not coding, I'm delving into AI research and robotics. <br>
 📫 Email me at **dmkn96@icloud.com** <br>
  
 ## 💬 About me :
