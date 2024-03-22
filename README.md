@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td>🖥 Programming Languages</td>
-    <td>Python, C++</td>
+    <td>Python, C#</td>
   </tr>
   <tr>
     <td>🤖 Artificial Intelligence</td>
@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <td>🐳 Other</td>
-    <td>Docker</td>
+    <td>Docker|Git</td>
   </tr>
 </table>
 
