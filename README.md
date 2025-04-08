@@ -13,3 +13,9 @@
 🔍  I'm always on the lookout for **innovative projects** and new challenges in the AI sphere.  
 🎯  My ultimate goal is to contribute to a future where **technology and humanity coexist in harmony**.  
 ✨  **Let's connect and make something great together! 🤝**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
