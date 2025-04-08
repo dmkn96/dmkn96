@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dmkn96&theme=gruvbox_light&hide_border=true&include_all_commits=false&count_private=false" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=dmkn96&theme=gruvbox_light&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmkn96&theme=gruvbox_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="width: 50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmkn96&theme=gruvbox_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 <picture style="width: 100%">
